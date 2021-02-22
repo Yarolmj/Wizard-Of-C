@@ -1,0 +1,15 @@
+O------
+O|OOO|O
+OO--OOO
+O||OOO|
+-OO--OO
+O/O|OOO
+--OOO-O
+O|O||OO
+OOOOO--
+O||OOOO
+OOOOO-O
+O|OO|OO
+O------
+O||OOOO
+O-OOOOO
